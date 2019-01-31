@@ -1,1 +1,1 @@
-# This repository contains my assignments
+# Assignments
